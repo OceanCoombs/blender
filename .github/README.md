@@ -31,6 +31,7 @@ Development
 - [Code Review & Bug Tracker](https://projects.blender.org)
 - [Developer Forum](https://devtalk.blender.org)
 - [Developer Documentation](https://developer.blender.org/docs/)
+- [Build For Intel Macs](https://forum.blender.org/t/how-i-built-blender-5-1-on-an-intel-mac/45270?sort=old)
 
 
 License
